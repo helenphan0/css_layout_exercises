@@ -1,0 +1,52 @@
+main {
+	padding: 80px;
+}
+
+
+div {
+	height: 500px;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 0;
+}
+
+
+.half {
+	width: 50%;
+	height: 200px;
+	display: inline-block;
+	border: 1px solid black;
+}
+
+.third {
+	width: 33.33%;
+	height: 300px;
+	display: inline-block;
+	border: 1px solid black;
+}
+
+.green {
+	background-color: green;
+
+}
+
+.blue {
+	background-color: blue;
+
+}
+
+.gray {
+	background-color: gray;
+
+}
+
+.black {
+	background-color: black;
+
+}
+
+.orange {
+	background-color: orange;
+
+}
